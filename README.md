@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ahmad Abdelaal!
 
-Welcome to my GitHub Profile! I'm an aspiring Computer Science Graduate, AI enthusiast, and data tinkerer from Egypt. My journey bridges academia and industry, blending my passion for **Artificial Intelligence** with my hands-on experience in research and industry
+Welcome to my GitHub Profile! I'm an aspiring Computer Science Graduate, and AI enthusiast from Egypt. My journey bridges academia and industry, blending my passion for **Artificial Intelligence** with my hands-on experience in research and industry
 ---
 
 ## 🌟 About Me
