@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Ahmad Abdelaal!
+<!-- I'm an aspiring Computer Science Graduate, and AI enthusiast from Egypt. My journey bridges academia and industry, blending my passion for **Artificial Intelligence** with my hands-on experience in research and industry-->
 
 Welcome to my GitHub Profile! I am an AI/ML engineer with experience in Machine learning, NLP, and LLMs. with achievements in research forums and hackathons, known for innovative problem-solving. Eager to apply and expand technical expertise in AI/ML for research and industry opportunities, contributing to innovative projects
 
@@ -27,9 +28,9 @@ Welcome to my GitHub Profile! I am an AI/ML engineer with experience in Machine 
 ---
 
 ## 📈 GitHub Stats
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsameh8&show_icons=true&theme=radical)
-
+<!--
+*![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsameh8&show_icons=true&theme=radical)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsameh8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
