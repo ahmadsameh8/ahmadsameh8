@@ -10,9 +10,11 @@ Welcome to my GitHub Profile! I am an AI/ML engineer with experience in Machine 
 - 🎓 **Education**: Bachelor's of Computer science with a major in AI at Nile University Egypt.
 - 🔬 **Research Interests**: NLP, LLMs, RAG, Computer Vision, Machine learning
 - 💻 **Experience**:
+  - Junior Data Scientist at Etax: Building AI-driven products using Large Language Models (LLMs) and AI agents for the tax authority.  
+  - Data science intern at the Central Bank of Egypt: Built a knowledge graph for the competition law team and presented my work at [Nodes 2025](https://neo4j.com/nodes-2025/agenda/powering-legal-research-with-knowledge-graphs-and-large-language-models/)
   - Junior Research Assistant at Nile University: Built deep learning models using Siamese network and Longformer for plagiarism detection
   - Backend Engineer Intern at Paymob: Developed backend endpoints for various applications using Restful APIs using Django Rest and built unit tests using Pytest
-  - AI Engineer at Mirando Solutions :  Processed live stream audio and textual data, Optimized models to achieve faster inference rates
+  - AI Engineer intern at Mirando Solutions :  Processed live stream audio and textual data, Optimized models to achieve faster inference rates
 
 
 ---
