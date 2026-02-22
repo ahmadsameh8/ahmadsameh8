@@ -26,15 +26,11 @@ naturalistic sensory feedback in prosthetics.
 | **Languages**      | Python, C, C++ |
 |--------------------|-------------------|
 | **Frameworks**    | Transformers, TensorFlow, Keras, pytorch, langchain, Pandas, scikit-learn, Matplotlib, Seaborn, NumPy, Docker, Kubernetes, Streamlit |
-| **Platforms**     | Hugging Face, Google Cloud AI     |
+| **Platforms**     | Hugging Face, Google Cloud AI, Google AI Studio, Postman|
 
 
 ---
 
-## 📈 GitHub Stats
-<!--
-*![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsameh8&show_icons=true&theme=radical)
----
 
 🌍 Connect with Me
 
