@@ -7,9 +7,11 @@ Welcome to my GitHub Profile! I am an AI/ML engineer with experience in Machine 
 
 ## 🌟 About Me
 
-- 🎓 **Education**: Bachelor's of Computer science with a major in AI at Nile University Egypt.
+- 🎓 **Education**: Master's degree in computer science ( In-progress) / Bachelor's of Computer science with a major in AI at Nile University Egypt.
 - 🔬 **Research Interests**: NLP, LLMs, RAG, Computer Vision, Machine learning
 - 💻 **Experience**:
+  - Research Assistant at AUC: Developing a machine learning–based system to optimize electrical stimulation of peripheral nerves to restore
+naturalistic sensory feedback in prosthetics.
   - Junior Data Scientist at Etax: Building AI-driven products using Large Language Models (LLMs) and AI agents for the tax authority.  
   - Data science intern at the Central Bank of Egypt: Built a knowledge graph for the competition law team and presented my work at [Nodes 2025](https://neo4j.com/nodes-2025/agenda/powering-legal-research-with-knowledge-graphs-and-large-language-models/)
   - Junior Research Assistant at Nile University: Built deep learning models using Siamese network and Longformer for plagiarism detection
@@ -32,9 +34,6 @@ Welcome to my GitHub Profile! I am an AI/ML engineer with experience in Machine 
 ## 📈 GitHub Stats
 <!--
 *![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsameh8&show_icons=true&theme=radical)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsameh8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 🌍 Connect with Me
